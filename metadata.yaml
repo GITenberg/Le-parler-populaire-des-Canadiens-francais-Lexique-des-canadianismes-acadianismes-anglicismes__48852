@@ -1,4 +1,8 @@
 _repo: Le-parler-populaire-des-Canadiens-francais-Lexique-des-canadianismes-acadianismes-anglicismes__48852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48852-h/images/cover.jpg
 creator:
   author:
     agent_name: Dionne, Narcisse Eutrope
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44998
     wikipedia: https://fr.wikipedia.org/wiki/Narcisse-Eutrope_Dionne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48852#Le-parler-populaire-des-Canadiens-francais-Lexique-des-canadianismes-acadianismes-anglicismes_
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2015-05-02'
 gutenberg_type: Text
